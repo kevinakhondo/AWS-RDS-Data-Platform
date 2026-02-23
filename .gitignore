@@ -1,0 +1,25 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Variables / secrets
+*.tfvars
+*.pem
+*.key
+*.crt
+*.ovpn
+certs/
+vpn-certs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store
+
+# Env
+.env
