@@ -33,7 +33,7 @@ Key properties:
 
 ---
 
-# 🚀 Project Goals
+#  Project Goals
 
 This project demonstrates:
 
@@ -46,7 +46,7 @@ This project demonstrates:
 
 ---
 
-# 📁 Repository Structure
+#  Repository Structure
 
 ```
 private-rds-vpn-data-platform/
